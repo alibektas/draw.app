@@ -1,0 +1,54 @@
+
+export const MAX_SHELF_COUNT_ERROR = 12;
+export const MAX_SHELF_COUNT_WARNING = 12;
+export const MAX_SHELF_WIDTH_ERROR = 50;
+export const MAX_SHELF_WIDTH_WARNING = 50;
+
+export const MAX_SHELF_HEIGHT_WARNING = 50;
+export const MAX_SHELF_HEIGHT_ERROR = 50;
+export const MIN_SHELF_HEIGHT_WARNING = 50;
+export const MIN_SHELF_HEIGHT_ERROR = 50;
+
+export const MAX_SHELF_SPACING_WARNING = 8;
+export const MAX_SHELF_SPACING_ERROR = 10;
+export const MIN_SHELF_SPACING_WARNING = 0.1;
+export const MIN_SHELF_SPACING_ERROR = 0;
+
+export const MAX_SHELF_DEPTH_ERROR = 30;
+export const MAX_SHELF_DEPTH_WARNING = 30;
+export const MIN_SHELF_COUNT_ERROR = 12;
+export const MIN_SHELF_COUNT_WARNING = 12;
+export const MIN_SHELF_WIDTH_ERROR = 0;
+export const MIN_SHELF_WIDTH_WARNING = 0;
+export const MIN_SHELF_DEPTH_ERROR = 0;
+export const MIN_SHELF_DEPTH_WARNING = 0;
+export const MAX_CORRIDOR_WIDTH_ERROR = 30;
+export const MAX_CORRIDOR_WIDTH_WARNING = 30;
+export const MAX_MODULE_COUNT_WARNING = 14;
+export const MAX_MODULE_COUNT_ERROR = 15;
+export const MIN_MODULE_COUNT_WARNING = 1;
+export const MIN_MODULE_COUNT_ERROR = 0;
+
+export const MAX_POSITION_X_ERROR = 2000;
+export const MAX_POSITION_X_WARNING = 1500;
+export const MAX_POSITION_Y_ERROR = 2000;
+export const MAX_POSITION_Y_WARNING = 1500;
+export const MAX_POSITION_Z_ERROR = 2000;
+export const MAX_POSITION_Z_WARNING = 1500;
+
+export const MAX_ROTATION_X_ERROR = 2000;
+export const MAX_ROTATION_X_WARNING = 1500;
+export const MAX_ROTATION_Y_ERROR = 2000;
+export const MAX_ROTATION_Y_WARNING = 1500;
+export const MAX_ROTATION_Z_ERROR = 2000;
+export const MAX_ROTATION_Z_WARNING = 1500;
+
+export const MIN_ROTATION_X_ERROR = -2000;
+export const MIN_ROTATION_X_WARNING = -1500;
+export const MIN_ROTATION_Y_ERROR = -2000;
+export const MIN_ROTATION_Y_WARNING = -1500;
+export const MIN_ROTATION_Z_ERROR = -2000;
+export const MIN_ROTATION_Z_WARNING = -1500;
+
+export const DEFAULT_SHELF_SPACING = 1.3;
+

@@ -1,0 +1,27 @@
+{
+	"spellright.language": [],
+	"spellright.documentTypes": ["latex", "plaintext"],
+	"todo-tree.general.tags": [
+		"BUG",
+		"HACK",
+		"FIXME",
+		"TODO",
+		"XXX",
+		"[ ]",
+		"[x]",
+		"DONE", // Indicates that the file has been reviewed for the current sprint.
+		"HERE",
+		"DEVELOPMENT",
+		"PRODUCTION"
+	],
+	"eslint.codeAction.showDocumentation": {
+		"enable": true
+	},
+	// Disable empty interface linting.
+	"eslint.rules.customizations": [
+		{
+			"rule": "@typescript-eslint/no-empty-interface",
+			"severity": "off"
+		}
+	]
+}

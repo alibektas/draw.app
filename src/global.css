@@ -1,0 +1,7 @@
+body {
+	/* Removing margin : 0 causes an overflow. */
+	/* See this https://stackoverflow.com/questions/23367345/100vw-causing-horizontal-overflow-but-only-if-more-than-one */
+	width: 100vw;
+	height: 100vh;
+	background-color: white;
+}
